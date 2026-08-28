@@ -50,3 +50,5 @@ The SQL uses broadly supported SQL syntax. The window-function query requires a 
 ## Notes
 
 `Item Fat Content` contains inconsistent capitalization in the source data, so the SQL analysis normalizes it before grouping. `Total Sales` is treated as the sales measure provided by the dataset; it is not recalculated from quantity or price because those fields are not included.
+
+Thanks
